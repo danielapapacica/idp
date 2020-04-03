@@ -28,5 +28,5 @@ app.use((err, req, res, next) => {
 
 
 app.listen(3000, () => {
-    console.log('App is listening on 3000');
+    console.log('The server is listening on 3000 (inside the container) and 3002 outside');
 });
