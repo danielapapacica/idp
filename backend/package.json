@@ -21,7 +21,7 @@
     "prom-client": "^12.0.0",
     "prometheus-api-metrics": "^2.2.5",
     "react-images-upload": "^1.2.8",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {},
   "scripts": {
